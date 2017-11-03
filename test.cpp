@@ -7,3 +7,9 @@ To https://github.com/kevin1201/Kang-Sen.git
 ➜  git-study git:(second_table) git push
 Everything up-to-date
 ➜  git-study git:(second_table) git log
+
+int a = 1
+int b = 2
+
+
+int d = 4
